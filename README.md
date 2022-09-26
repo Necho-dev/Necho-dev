@@ -6,7 +6,7 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 [![Zhihu](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=056de8&logo=zhihu&logoColor=white&label=知乎&query=data.subsInEachSource.zhihu&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmonster-42-41-51)](https://space.bilibili.com/38856663)
 [![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat-square&logo=gitee&logoColor=white)](https://gitee.com/necho-dev)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-8952ff?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/eliauk-li/)
-[![Juejin](https://img.shields.io/badge/-稀土掘金-1e80ff?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/884421284604296)
+[![Juejin](https://img.shields.io/badge/-稀土掘金-1e80ff?style=flat-square&logo=Hotjar&logoColor=white)](https://juejin.cn/user/884421284604296)
 
 ### 👨‍💻 About me
 
