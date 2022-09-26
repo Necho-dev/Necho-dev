@@ -1,4 +1,14 @@
 ### Hi there 👋
+[![Bilibili](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=FE7398&logo=bilibili&logoColor=white&label=BiliBili%20Fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D38856663)](https://space.bilibili.com/38856663)
+![](https://img.shields.io/github/stars/Necho-dev?style=flat-square&color=faf408&label=Github%20Stars&logo=github)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necho-dev&layout=compact)](https://github.com/Necho-dev/)
+
+<a href="https://github.com/Necho-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Necho-dev&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necho-dev&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **Necho-dev/Necho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
