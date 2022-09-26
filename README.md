@@ -22,9 +22,11 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
 
 <a href="https://github.com/Necho-dev">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Necho-dev&theme=buefy&show_icons=true" />
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necho-dev&layout=compact" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Necho-dev&theme=buefy&show_icons=true" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necho-dev&layout=compact" />
 </a>
+
+
 
 [![](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=Necho-dev)](https://github.com/Necho-dev/)
