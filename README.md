@@ -8,13 +8,13 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 [![Leetcode](https://img.shields.io/badge/-LeetCode-8952ff?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/eliauk-li/)
 [![Juejin](https://img.shields.io/badge/-稀土掘金-1e80ff?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/884421284604296)
 
+### 👨‍💻 About me
 
-
-&#9656; 🏢 I’m currently studying at Wenzhou University of Technology.
-
+&#9656; 🏢 I’m currently studying at Wenzhou University of Technology.<br>
 &#9656; 🌱 I’m currently learning Data analysis / Machine learning.
 
 ### 🔭 Technology stack
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
