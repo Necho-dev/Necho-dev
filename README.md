@@ -29,7 +29,7 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 
 
 
-[![](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
+[![Commits](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=Necho-dev)](https://github.com/Necho-dev/)
 
 <!--
