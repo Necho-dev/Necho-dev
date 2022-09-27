@@ -28,9 +28,8 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 </a>
 
 
-
-[![Commits](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
 [![Page Views Count](https://badges.toozhao.com/badges/01GDYJDE3DXSN0QF22JNEXJQYY/green.svg)](https://github.com/Necho-dev/)
+[![Commits](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
 
 <!--
 **Necho-dev/Necho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
