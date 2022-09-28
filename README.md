@@ -13,7 +13,7 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 &#9656; 🏢 I’m currently studying at Wenzhou University of Technology.<br>
 &#9656; 🌱 I’m currently learning Data analysis / Machine learning.
 
-### 🔭 Technology stack
+### 🔭 Tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
