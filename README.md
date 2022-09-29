@@ -29,7 +29,7 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 
 
 [![Commits](https://img.shields.io/github/last-commit/Necho-dev/Necho-dev?label=Lastest%20Commit&logo=git&logoColor=fff&style=flat-square)](https://github.com/Necho-dev/)
-[![Page Views Count](https://badges.toozhao.com/badges/01GDYJDE3DXSN0QF22JNEXJQYY/green.svg)](https://github.com/Necho-dev/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=Necho-dev)](https://github.com/Necho-dev/)
 
 <!--
 **Necho-dev/Necho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Visitors](https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=Necho-dev)](https://github.com/Necho-dev/)
+[![Page Views Count](https://badges.toozhao.com/badges/01GDYJDE3DXSN0QF22JNEXJQYY/green.svg)](https://github.com/Necho-dev/)
 -->
