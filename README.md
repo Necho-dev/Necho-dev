@@ -15,12 +15,13 @@ Students / Full stack developer / Computer vision engineer (Beginner) .
 
 ### 🔭 Tech stack
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=CLion&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-%97ca00?style=flat-square&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Vue](https://img.shields.io/badge/-Vue-%97ca00?style=flat-square&logo=vue.js&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=CLion&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 <a href="https://github.com/Necho-dev">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Necho-dev&theme=buefy&show_icons=true" />
