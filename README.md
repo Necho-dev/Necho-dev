@@ -1,5 +1,5 @@
 ### Hi 👋 Here is Necho.
-Students / Full stack developer / Computer vision engineer (Beginner) .
+Students / Software engineer (C/C++) / Front-end engineer / Computer vision engineer (Beginner) .
 
 [![Github](https://img.shields.io/github/stars/Necho-dev?style=flat-square&color=4f4f&label=Github&logo=github)](https://github.com/Necho-dev/)
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=FE7398&logo=bilibili&logoColor=white&label=BiliBili&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D38856663)](https://space.bilibili.com/38856663)
