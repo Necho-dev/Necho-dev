@@ -11,7 +11,7 @@ Students / Software engineer (C/C++) / Front-end engineer / Computer vision engi
 ### 👨‍💻 About me
 
 &#9656; 🏢 I’m currently studying at Wenzhou University of Technology.<br>
-&#9656; 🌱 I’m currently learning Data analysis / Machine learning.
+&#9656; 🌱 I’m currently learning LLM Prompt / Data analysis / Machine learning.
 
 ### 🔭 Tech stack
 
@@ -21,7 +21,7 @@ Students / Software engineer (C/C++) / Front-end engineer / Computer vision engi
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![JavaScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=000000&labelColor=%25A8EF1C&color=%28A14E1A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23F7DF1C?style=flat-square&logo=typescript&logoColor=000000&labelColor=%25A8EF1C&color=%28A14E1A)
 
 <a href="https://github.com/Necho-dev">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Necho-dev&theme=buefy&show_icons=true" />
